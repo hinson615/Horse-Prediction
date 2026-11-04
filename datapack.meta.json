@@ -1,13 +1,13 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-04T19:10:23",
-  "lastDailyUpdate": "2026-11-04T19:10:23",
-  "lastAfterRaceUpdate": "2026-11-04T19:10:23",
+  "updatedAt": "2026-11-04T23:18:01",
+  "lastDailyUpdate": "2026-11-04T23:18:01",
+  "lastAfterRaceUpdate": "2026-11-04T23:18:01",
   "sources": {
     "jockey_trainer_combo": 25,
-    "season_local_rows": 20586,
-    "horses": 2032,
-    "trials_horses": 3242,
+    "season_local_rows": 20682,
+    "horses": 2037,
+    "trials_horses": 3247,
     "work_horses": 1431,
     "season_date_range": [
       "2024-09-08",
@@ -28,8 +28,8 @@
     },
     "sectional_races": 1666,
     "sectional_through": "2026-11-01",
-    "daily_new_result_rows": 93,
-    "daily_trial_rows_merged": 0,
+    "daily_new_result_rows": 96,
+    "daily_trial_rows_merged": 58,
     "daily_work_rows_merged": 0,
     "daily_run_date": "2026-11-04",
     "daily_run_mode": "after-race",
@@ -64,18 +64,18 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3266,
-      "mtime": "2026-11-04T11:10:23.122Z"
+      "bytes": 3267,
+      "mtime": "2026-11-04T15:18:01.564Z"
     },
     {
       "name": "horse_form.json",
-      "bytes": 2803202,
-      "mtime": "2026-11-04T11:10:23.118Z"
+      "bytes": 2810345,
+      "mtime": "2026-11-04T15:18:01.536Z"
     },
     {
       "name": "trial_recent.json",
-      "bytes": 1787189,
-      "mtime": "2026-11-02T07:58:02.000Z"
+      "bytes": 1790670,
+      "mtime": "2026-11-04T15:18:01.560Z"
     },
     {
       "name": "work_recent.json",
@@ -89,18 +89,18 @@
     },
     {
       "name": "combo_stats.json",
-      "bytes": 25703,
-      "mtime": "2026-11-04T11:10:23.122Z"
+      "bytes": 27303,
+      "mtime": "2026-11-04T15:18:01.544Z"
     },
     {
       "name": "jockey_stats.json",
-      "bytes": 2346,
-      "mtime": "2026-11-04T11:10:23.122Z"
+      "bytes": 2353,
+      "mtime": "2026-11-04T15:18:01.544Z"
     },
     {
       "name": "trainer_stats.json",
-      "bytes": 2699,
-      "mtime": "2026-11-04T11:10:23.122Z"
+      "bytes": 2701,
+      "mtime": "2026-11-04T15:18:01.544Z"
     },
     {
       "name": "sectional_times.json",
@@ -123,5 +123,5 @@
       "mtime": "2026-11-02T07:58:02.000Z"
     }
   ],
-  "packBytes": 9698267
+  "packBytes": 9710501
 }
