@@ -1,8 +1,8 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-08T19:17:17",
-  "lastDailyUpdate": "2026-11-08T19:17:17",
-  "lastAfterRaceUpdate": "2026-11-08T19:17:17",
+  "updatedAt": "2026-11-08T23:15:38",
+  "lastDailyUpdate": "2026-11-08T23:15:38",
+  "lastAfterRaceUpdate": "2026-11-08T23:15:38",
   "sources": {
     "jockey_trainer_combo": 26,
     "season_local_rows": 20827,
@@ -28,8 +28,8 @@
     },
     "sectional_races": 1666,
     "sectional_through": "2026-11-01",
-    "daily_new_result_rows": 145,
-    "daily_trial_rows_merged": 240,
+    "daily_new_result_rows": 0,
+    "daily_trial_rows_merged": 0,
     "daily_work_rows_merged": 0,
     "daily_run_date": "2026-11-08",
     "daily_run_mode": "after-race",
@@ -64,8 +64,8 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3266,
-      "mtime": "2026-11-08T11:17:17.166Z"
+      "bytes": 3262,
+      "mtime": "2026-11-08T15:15:38.049Z"
     },
     {
       "name": "horse_form.json",
@@ -123,5 +123,5 @@
       "mtime": "2026-11-07T09:52:45.929Z"
     }
   ],
-  "packBytes": 9742302
+  "packBytes": 9742298
 }
