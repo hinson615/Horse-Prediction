@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-09T14:10:29",
-  "lastDailyUpdate": "2026-11-09T14:10:29",
-  "lastAfterRaceUpdate": "2026-11-09T14:10:29",
+  "updatedAt": "2026-11-09T15:18:18+08:00",
+  "lastDailyUpdate": "2026-11-09T15:18:18+08:00",
+  "lastAfterRaceUpdate": "2026-11-09T15:18:18+08:00",
   "sources": {
     "jockey_trainer_combo": 26,
-    "season_local_rows": 20973,
+    "season_local_rows": 20746,
     "horses": 2052,
     "trials_horses": 3283,
-    "work_horses": 1431,
+    "work_horses": 1454,
     "season_date_range": [
       "2024-09-08",
       "2026-11-08"
@@ -26,25 +26,25 @@
       "race_comments": "race_comments.parquet→race_comments.json",
       "race_reports": "race_reports.parquet→race_reports.json"
     },
-    "sectional_races": 1666,
-    "sectional_through": "2026-11-01",
+    "sectional_races": 1686,
+    "sectional_through": "2026-11-08",
     "daily_new_result_rows": 146,
     "daily_trial_rows_merged": 0,
     "daily_work_rows_merged": 0,
-    "daily_run_date": "2026-11-09",
-    "daily_run_mode": "morning",
+    "daily_run_date": "2026-11-08",
+    "daily_run_mode": "parquet-rebuild",
     "last_after_race_date": "2026-11-08",
     "last_after_race_venues": [
       "沙田"
     ],
-    "meeting_going_through": "2026-11-01",
+    "meeting_going_through": "2026-11-04",
     "meeting_going_latest": "2026-11-04",
     "race_comments_through": "2026-11-01",
     "race_comments_rows": 1259,
-    "race_reports_through": "2026-11-01",
-    "race_reports_rows": 1365,
+    "race_reports_through": "2026-11-08",
+    "race_reports_rows": 1619,
     "rebuild_from": "horse-prediction-v1/data/parquet",
-    "rebuild_through": "2026-11-01"
+    "rebuild_through": "2026-11-08"
   },
   "modelLabel": "Horse Prediction V1.2 JSON（有檔）／TS 近似（無檔）",
   "files": [
@@ -64,64 +64,64 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3709,
-      "mtime": "2026-11-09T06:10:29.309Z"
+      "bytes": 3293,
+      "mtime": "2026-11-09T07:18:18.525Z"
     },
     {
       "name": "horse_form.json",
-      "bytes": 2821884,
-      "mtime": "2026-11-09T03:50:44.476Z"
+      "bytes": 2825197,
+      "mtime": "2026-11-09T07:18:15.853Z"
     },
     {
       "name": "trial_recent.json",
-      "bytes": 1808108,
-      "mtime": "2026-11-08T11:17:17.154Z"
+      "bytes": 1807816,
+      "mtime": "2026-11-09T07:18:17.081Z"
     },
     {
       "name": "work_recent.json",
-      "bytes": 924473,
-      "mtime": "2026-11-07T09:52:35.036Z"
+      "bytes": 1026784,
+      "mtime": "2026-11-09T07:18:18.285Z"
     },
     {
       "name": "barrier_bias.json",
-      "bytes": 1365,
-      "mtime": "2026-11-07T09:52:34.992Z"
+      "bytes": 1368,
+      "mtime": "2026-11-09T07:18:15.857Z"
     },
     {
       "name": "combo_stats.json",
-      "bytes": 31593,
-      "mtime": "2026-11-09T03:50:44.480Z"
+      "bytes": 26300,
+      "mtime": "2026-11-09T07:18:15.973Z"
     },
     {
       "name": "jockey_stats.json",
-      "bytes": 2448,
-      "mtime": "2026-11-09T03:50:44.480Z"
+      "bytes": 2444,
+      "mtime": "2026-11-09T07:18:15.973Z"
     },
     {
       "name": "trainer_stats.json",
-      "bytes": 2715,
-      "mtime": "2026-11-09T03:50:44.480Z"
+      "bytes": 2701,
+      "mtime": "2026-11-09T07:18:15.973Z"
     },
     {
       "name": "sectional_times.json",
-      "bytes": 2854418,
-      "mtime": "2026-11-07T09:52:35.496Z"
+      "bytes": 2884588,
+      "mtime": "2026-11-09T07:18:14.877Z"
     },
     {
       "name": "meeting_going.json",
       "bytes": 695129,
-      "mtime": "2026-11-07T09:52:45.945Z"
+      "mtime": "2026-11-09T07:18:18.409Z"
     },
     {
       "name": "race_comments.json",
       "bytes": 237257,
-      "mtime": "2026-11-07T09:52:45.945Z"
+      "mtime": "2026-11-09T07:18:18.457Z"
     },
     {
       "name": "race_reports.json",
-      "bytes": 361220,
-      "mtime": "2026-11-07T09:52:45.929Z"
+      "bytes": 429487,
+      "mtime": "2026-11-09T07:18:18.517Z"
     }
   ],
-  "packBytes": 9744319
+  "packBytes": 9942364
 }
