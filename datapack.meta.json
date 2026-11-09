@@ -1,7 +1,7 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-09T11:50:44",
-  "lastDailyUpdate": "2026-11-09T11:50:44",
+  "updatedAt": "2026-11-09T14:10:29",
+  "lastDailyUpdate": "2026-11-09T14:10:29",
   "lastAfterRaceUpdate": "2026-11-08T23:15:38",
   "sources": {
     "jockey_trainer_combo": 26,
@@ -64,8 +64,8 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3261,
-      "mtime": "2026-11-09T03:50:44.484Z"
+      "bytes": 3709,
+      "mtime": "2026-11-09T06:10:29.309Z"
     },
     {
       "name": "horse_form.json",
@@ -123,5 +123,5 @@
       "mtime": "2026-11-07T09:52:45.929Z"
     }
   ],
-  "packBytes": 9743871
+  "packBytes": 9744319
 }
