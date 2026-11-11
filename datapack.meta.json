@@ -1,17 +1,17 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-09T15:18:18+08:00",
-  "lastDailyUpdate": "2026-11-09T15:18:18+08:00",
-  "lastAfterRaceUpdate": "2026-11-09T15:18:18+08:00",
+  "updatedAt": "2026-11-11T19:26:09",
+  "lastDailyUpdate": "2026-11-11T19:26:09",
+  "lastAfterRaceUpdate": "2026-11-11T19:26:09",
   "sources": {
     "jockey_trainer_combo": 26,
-    "season_local_rows": 20746,
+    "season_local_rows": 20770,
     "horses": 2052,
-    "trials_horses": 3283,
+    "trials_horses": 3289,
     "work_horses": 1454,
     "season_date_range": [
       "2024-09-08",
-      "2026-11-08"
+      "2026-11-11"
     ],
     "share_import": {
       "season": "HKJC_賽季資料庫_20261021.xlsx",
@@ -28,14 +28,14 @@
     },
     "sectional_races": 1686,
     "sectional_through": "2026-11-08",
-    "daily_new_result_rows": 146,
-    "daily_trial_rows_merged": 0,
+    "daily_new_result_rows": 24,
+    "daily_trial_rows_merged": 184,
     "daily_work_rows_merged": 0,
-    "daily_run_date": "2026-11-08",
-    "daily_run_mode": "parquet-rebuild",
-    "last_after_race_date": "2026-11-08",
+    "daily_run_date": "2026-11-11",
+    "daily_run_mode": "after-race",
+    "last_after_race_date": "2026-11-11",
     "last_after_race_venues": [
-      "沙田"
+      "跑馬地"
     ],
     "meeting_going_through": "2026-11-04",
     "meeting_going_latest": "2026-11-04",
@@ -64,18 +64,18 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3293,
-      "mtime": "2026-11-09T07:18:18.525Z"
+      "bytes": 3268,
+      "mtime": "2026-11-11T11:26:09.218Z"
     },
     {
       "name": "horse_form.json",
-      "bytes": 2825197,
-      "mtime": "2026-11-09T07:18:15.853Z"
+      "bytes": 2826133,
+      "mtime": "2026-11-11T11:26:09.194Z"
     },
     {
       "name": "trial_recent.json",
-      "bytes": 1807816,
-      "mtime": "2026-11-09T07:18:17.081Z"
+      "bytes": 1814966,
+      "mtime": "2026-11-11T11:26:09.214Z"
     },
     {
       "name": "work_recent.json",
@@ -89,18 +89,18 @@
     },
     {
       "name": "combo_stats.json",
-      "bytes": 26300,
-      "mtime": "2026-11-09T07:18:15.973Z"
+      "bytes": 27045,
+      "mtime": "2026-11-11T11:26:09.198Z"
     },
     {
       "name": "jockey_stats.json",
       "bytes": 2444,
-      "mtime": "2026-11-09T07:18:15.973Z"
+      "mtime": "2026-11-11T11:26:09.198Z"
     },
     {
       "name": "trainer_stats.json",
-      "bytes": 2701,
-      "mtime": "2026-11-09T07:18:15.973Z"
+      "bytes": 2710,
+      "mtime": "2026-11-11T11:26:09.198Z"
     },
     {
       "name": "sectional_times.json",
@@ -123,5 +123,5 @@
       "mtime": "2026-11-09T07:18:18.517Z"
     }
   ],
-  "packBytes": 9942364
+  "packBytes": 9951179
 }
