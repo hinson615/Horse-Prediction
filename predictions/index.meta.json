@@ -1,11 +1,11 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-08T03:22:01.653Z",
+  "updatedAt": "2026-11-11T08:26:12.782Z",
   "files": [
-    "Horse_Prediction_V1_2_20261101.json",
     "Horse_Prediction_V1_2_20261104.json",
-    "Horse_Prediction_V1_2_20261108.json"
+    "Horse_Prediction_V1_2_20261108.json",
+    "Horse_Prediction_V1_2_20261111.json"
   ],
   "count": 3,
-  "note_osr_refresh": "2026-11-08 repredict after 奧璇璧 overseas career jockey_* fill (win_rate=0.12, place_rate=0.30, source=overseas career)"
+  "note_t2h_20261111": "2026-11-11 HV night meeting V1.2 at value-publish gate; live GraphQL win/place odds fetched_at 2026-11-11T16:24:10 HKT; R3 #9 錶之梵星 withdrawn"
 }
