@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-11T19:26:09",
-  "lastDailyUpdate": "2026-11-11T19:26:09",
-  "lastAfterRaceUpdate": "2026-11-11T19:26:09",
+  "updatedAt": "2026-11-11T23:19:49",
+  "lastDailyUpdate": "2026-11-11T23:19:49",
+  "lastAfterRaceUpdate": "2026-11-11T23:19:49",
   "sources": {
     "jockey_trainer_combo": 26,
-    "season_local_rows": 20770,
-    "horses": 2052,
+    "season_local_rows": 20841,
+    "horses": 2053,
     "trials_horses": 3289,
     "work_horses": 1454,
     "season_date_range": [
@@ -28,8 +28,8 @@
     },
     "sectional_races": 1686,
     "sectional_through": "2026-11-08",
-    "daily_new_result_rows": 24,
-    "daily_trial_rows_merged": 184,
+    "daily_new_result_rows": 71,
+    "daily_trial_rows_merged": 0,
     "daily_work_rows_merged": 0,
     "daily_run_date": "2026-11-11",
     "daily_run_mode": "after-race",
@@ -64,13 +64,13 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3268,
-      "mtime": "2026-11-11T11:26:09.218Z"
+      "bytes": 3266,
+      "mtime": "2026-11-11T15:19:49.566Z"
     },
     {
       "name": "horse_form.json",
-      "bytes": 2826133,
-      "mtime": "2026-11-11T11:26:09.194Z"
+      "bytes": 2830802,
+      "mtime": "2026-11-11T15:19:49.558Z"
     },
     {
       "name": "trial_recent.json",
@@ -89,18 +89,18 @@
     },
     {
       "name": "combo_stats.json",
-      "bytes": 27045,
-      "mtime": "2026-11-11T11:26:09.198Z"
+      "bytes": 28209,
+      "mtime": "2026-11-11T15:19:49.566Z"
     },
     {
       "name": "jockey_stats.json",
-      "bytes": 2444,
-      "mtime": "2026-11-11T11:26:09.198Z"
+      "bytes": 2445,
+      "mtime": "2026-11-11T15:19:49.566Z"
     },
     {
       "name": "trainer_stats.json",
-      "bytes": 2710,
-      "mtime": "2026-11-11T11:26:09.198Z"
+      "bytes": 2708,
+      "mtime": "2026-11-11T15:19:49.566Z"
     },
     {
       "name": "sectional_times.json",
@@ -123,5 +123,5 @@
       "mtime": "2026-11-09T07:18:18.517Z"
     }
   ],
-  "packBytes": 9951179
+  "packBytes": 9957009
 }
