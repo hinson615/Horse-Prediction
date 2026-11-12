@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-11T23:19:49",
-  "lastDailyUpdate": "2026-11-11T23:19:49",
-  "lastAfterRaceUpdate": "2026-11-11T23:19:49",
+  "updatedAt": "2026-11-12T11:39:49+08:00",
+  "lastDailyUpdate": "2026-11-12T11:39:49+08:00",
+  "lastAfterRaceUpdate": "2026-11-12T11:39:49+08:00",
   "sources": {
     "jockey_trainer_combo": 26,
-    "season_local_rows": 20841,
+    "season_local_rows": 20851,
     "horses": 2053,
     "trials_horses": 3289,
-    "work_horses": 1454,
+    "work_horses": 1463,
     "season_date_range": [
       "2024-09-08",
       "2026-11-11"
@@ -26,25 +26,25 @@
       "race_comments": "race_comments.parquet→race_comments.json",
       "race_reports": "race_reports.parquet→race_reports.json"
     },
-    "sectional_races": 1686,
-    "sectional_through": "2026-11-08",
+    "sectional_races": 1695,
+    "sectional_through": "2026-11-11",
     "daily_new_result_rows": 71,
     "daily_trial_rows_merged": 0,
     "daily_work_rows_merged": 0,
     "daily_run_date": "2026-11-11",
-    "daily_run_mode": "after-race",
+    "daily_run_mode": "parquet-rebuild",
     "last_after_race_date": "2026-11-11",
     "last_after_race_venues": [
       "跑馬地"
     ],
-    "meeting_going_through": "2026-11-04",
-    "meeting_going_latest": "2026-11-04",
-    "race_comments_through": "2026-11-01",
-    "race_comments_rows": 1259,
-    "race_reports_through": "2026-11-08",
-    "race_reports_rows": 1619,
+    "meeting_going_through": "2026-11-11",
+    "meeting_going_latest": "2026-11-14",
+    "race_comments_through": "2026-11-11",
+    "race_comments_rows": 1626,
+    "race_reports_through": "2026-11-11",
+    "race_reports_rows": 1727,
     "rebuild_from": "horse-prediction-v1/data/parquet",
-    "rebuild_through": "2026-11-08"
+    "rebuild_through": "2026-11-11"
   },
   "modelLabel": "Horse Prediction V1.2 JSON（有檔）／TS 近似（無檔）",
   "files": [
@@ -64,64 +64,64 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3266,
-      "mtime": "2026-11-11T15:19:49.566Z"
+      "bytes": 3295,
+      "mtime": "2026-11-12T03:39:49.360Z"
     },
     {
       "name": "horse_form.json",
-      "bytes": 2830802,
-      "mtime": "2026-11-11T15:19:49.558Z"
+      "bytes": 2832515,
+      "mtime": "2026-11-12T03:39:46.168Z"
     },
     {
       "name": "trial_recent.json",
-      "bytes": 1814966,
-      "mtime": "2026-11-11T11:26:09.214Z"
+      "bytes": 1810849,
+      "mtime": "2026-11-12T03:39:47.592Z"
     },
     {
       "name": "work_recent.json",
-      "bytes": 1026784,
-      "mtime": "2026-11-09T07:18:18.285Z"
+      "bytes": 1061095,
+      "mtime": "2026-11-12T03:39:49.048Z"
     },
     {
       "name": "barrier_bias.json",
-      "bytes": 1368,
-      "mtime": "2026-11-09T07:18:15.857Z"
+      "bytes": 1369,
+      "mtime": "2026-11-12T03:39:46.176Z"
     },
     {
       "name": "combo_stats.json",
-      "bytes": 28209,
-      "mtime": "2026-11-11T15:19:49.566Z"
+      "bytes": 26740,
+      "mtime": "2026-11-12T03:39:46.276Z"
     },
     {
       "name": "jockey_stats.json",
-      "bytes": 2445,
-      "mtime": "2026-11-11T15:19:49.566Z"
+      "bytes": 2446,
+      "mtime": "2026-11-12T03:39:46.276Z"
     },
     {
       "name": "trainer_stats.json",
-      "bytes": 2708,
-      "mtime": "2026-11-11T15:19:49.566Z"
+      "bytes": 2709,
+      "mtime": "2026-11-12T03:39:46.276Z"
     },
     {
       "name": "sectional_times.json",
-      "bytes": 2884588,
-      "mtime": "2026-11-09T07:18:14.877Z"
+      "bytes": 2897275,
+      "mtime": "2026-11-12T03:39:45.112Z"
     },
     {
       "name": "meeting_going.json",
-      "bytes": 695129,
-      "mtime": "2026-11-09T07:18:18.409Z"
+      "bytes": 701751,
+      "mtime": "2026-11-12T03:39:49.204Z"
     },
     {
       "name": "race_comments.json",
-      "bytes": 237257,
-      "mtime": "2026-11-09T07:18:18.457Z"
+      "bytes": 285573,
+      "mtime": "2026-11-12T03:39:49.276Z"
     },
     {
       "name": "race_reports.json",
-      "bytes": 429487,
-      "mtime": "2026-11-09T07:18:18.517Z"
+      "bytes": 456202,
+      "mtime": "2026-11-12T03:39:49.356Z"
     }
   ],
-  "packBytes": 9957009
+  "packBytes": 10081819
 }
