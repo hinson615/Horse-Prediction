@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-14T02:25:02.314Z",
+  "updatedAt": "2026-11-14T07:25:26.903Z",
   "files": [
     "Horse_Prediction_V1_2_20261104.json",
     "Horse_Prediction_V1_2_20261108.json",
@@ -8,5 +8,5 @@
     "Horse_Prediction_V1_2_20261114.json"
   ],
   "count": 4,
-  "note_t2h_20261114": "2026-11-14 ST day meeting V1.2 at value-publish gate; live GraphQL win/place odds fetched_at 2026-11-14T10:23:33 HKT; first race 12:30"
+  "note_t2h_20261114": "2026-11-14 ST day meeting official V1.2 10:43 HKT pack; live GraphQL win/place odds fetched_at 2026-11-14T10:23:33 HKT; first race 12:30; Race 6 cancelled (AWT affected by overnight rain; HKJC results: 此場賽事宣佈取消); focus_races now 3,7"
 }
