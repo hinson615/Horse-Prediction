@@ -1,11 +1,12 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-11T08:26:12.782Z",
+  "updatedAt": "2026-11-14T02:25:02.314Z",
   "files": [
     "Horse_Prediction_V1_2_20261104.json",
     "Horse_Prediction_V1_2_20261108.json",
-    "Horse_Prediction_V1_2_20261111.json"
+    "Horse_Prediction_V1_2_20261111.json",
+    "Horse_Prediction_V1_2_20261114.json"
   ],
-  "count": 3,
-  "note_t2h_20261111": "2026-11-11 HV night meeting V1.2 at value-publish gate; live GraphQL win/place odds fetched_at 2026-11-11T16:24:10 HKT; R3 #9 錶之梵星 withdrawn"
+  "count": 4,
+  "note_t2h_20261114": "2026-11-14 ST day meeting V1.2 at value-publish gate; live GraphQL win/place odds fetched_at 2026-11-14T10:23:33 HKT; first race 12:30"
 }
