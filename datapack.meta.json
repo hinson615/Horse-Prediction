@@ -1,14 +1,14 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-18T23:30:28",
-  "lastDailyUpdate": "2026-11-18T23:30:28",
-  "lastAfterRaceUpdate": "2026-11-18T23:30:28",
+  "updatedAt": "2026-11-19T17:01:36+08:00",
+  "lastDailyUpdate": "2026-11-19T17:01:36+08:00",
+  "lastAfterRaceUpdate": "2026-11-19T17:01:36+08:00",
   "sources": {
     "jockey_trainer_combo": 26,
     "season_local_rows": 21096,
     "horses": 2078,
     "trials_horses": 3294,
-    "work_horses": 1466,
+    "work_horses": 1489,
     "season_date_range": [
       "2024-09-08",
       "2026-11-18"
@@ -26,25 +26,25 @@
       "race_comments": "race_comments.parquet→race_comments.json",
       "race_reports": "race_reports.parquet→race_reports.json"
     },
-    "sectional_races": 1705,
-    "sectional_through": "2026-11-14",
+    "sectional_races": 1714,
+    "sectional_through": "2026-11-18",
     "daily_new_result_rows": 108,
     "daily_trial_rows_merged": 112,
     "daily_work_rows_merged": 0,
     "daily_run_date": "2026-11-18",
-    "daily_run_mode": "after-race",
+    "daily_run_mode": "parquet-rebuild",
     "last_after_race_date": "2026-11-18",
     "last_after_race_venues": [
       "跑馬地"
     ],
-    "meeting_going_through": "2026-11-14",
-    "meeting_going_latest": "2026-11-14",
-    "race_comments_through": "2026-11-14",
-    "race_comments_rows": 1695,
-    "race_reports_through": "2026-11-14",
-    "race_reports_rows": 1867,
+    "meeting_going_through": "2026-11-18",
+    "meeting_going_latest": "2026-11-22",
+    "race_comments_through": "2026-11-18",
+    "race_comments_rows": 1806,
+    "race_reports_through": "2026-11-18",
+    "race_reports_rows": 1976,
     "rebuild_from": "horse-prediction-v1/data/parquet",
-    "rebuild_through": "2026-11-14"
+    "rebuild_through": "2026-11-18"
   },
   "modelLabel": "Horse Prediction V1.2 JSON（有檔）／TS 近似（無檔）",
   "files": [
@@ -64,64 +64,64 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3269,
-      "mtime": "2026-11-18T15:30:28.496Z"
+      "bytes": 3298,
+      "mtime": "2026-11-19T09:01:36.244Z"
     },
     {
       "name": "horse_form.json",
-      "bytes": 2856360,
-      "mtime": "2026-11-18T15:30:28.464Z"
+      "bytes": 2857775,
+      "mtime": "2026-11-19T09:01:32.156Z"
     },
     {
       "name": "trial_recent.json",
-      "bytes": 1818654,
-      "mtime": "2026-11-18T15:30:28.488Z"
+      "bytes": 1817217,
+      "mtime": "2026-11-19T09:01:33.920Z"
     },
     {
       "name": "work_recent.json",
-      "bytes": 1084787,
-      "mtime": "2026-11-17T09:59:29.698Z"
+      "bytes": 1114091,
+      "mtime": "2026-11-19T09:01:35.896Z"
     },
     {
       "name": "barrier_bias.json",
       "bytes": 1369,
-      "mtime": "2026-11-17T09:59:28.018Z"
+      "mtime": "2026-11-19T09:01:32.160Z"
     },
     {
       "name": "combo_stats.json",
-      "bytes": 30098,
-      "mtime": "2026-11-18T15:30:28.472Z"
+      "bytes": 29048,
+      "mtime": "2026-11-19T09:01:32.396Z"
     },
     {
       "name": "jockey_stats.json",
       "bytes": 2450,
-      "mtime": "2026-11-18T15:30:28.472Z"
+      "mtime": "2026-11-19T09:01:32.392Z"
     },
     {
       "name": "trainer_stats.json",
       "bytes": 2717,
-      "mtime": "2026-11-18T15:30:28.472Z"
+      "mtime": "2026-11-19T09:01:32.392Z"
     },
     {
       "name": "sectional_times.json",
-      "bytes": 2914332,
-      "mtime": "2026-11-17T09:59:28.002Z"
+      "bytes": 2927256,
+      "mtime": "2026-11-19T09:01:30.880Z"
     },
     {
       "name": "meeting_going.json",
-      "bytes": 701470,
-      "mtime": "2026-11-17T09:59:28.542Z"
+      "bytes": 705570,
+      "mtime": "2026-11-19T09:01:36.052Z"
     },
     {
       "name": "race_comments.json",
-      "bytes": 292523,
-      "mtime": "2026-11-17T09:59:29.266Z"
+      "bytes": 303849,
+      "mtime": "2026-11-19T09:01:36.136Z"
     },
     {
       "name": "race_reports.json",
-      "bytes": 493001,
-      "mtime": "2026-11-17T09:59:28.186Z"
+      "bytes": 520791,
+      "mtime": "2026-11-19T09:01:36.236Z"
     }
   ],
-  "packBytes": 10201030
+  "packBytes": 10285431
 }
