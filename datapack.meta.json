@@ -1,12 +1,12 @@
 {
   "ok": true,
-  "updatedAt": "2026-11-25T19:38:44",
-  "lastDailyUpdate": "2026-11-25T19:38:44",
-  "lastAfterRaceUpdate": "2026-11-25T19:38:44",
+  "updatedAt": "2026-11-25T23:38:28",
+  "lastDailyUpdate": "2026-11-25T23:38:28",
+  "lastAfterRaceUpdate": "2026-11-25T23:38:28",
   "sources": {
     "jockey_trainer_combo": 28,
-    "season_local_rows": 21250,
-    "horses": 2098,
+    "season_local_rows": 21334,
+    "horses": 2100,
     "trials_horses": 3313,
     "work_horses": 1496,
     "season_date_range": [
@@ -28,8 +28,8 @@
     },
     "sectional_races": 1725,
     "sectional_through": "2026-11-22",
-    "daily_new_result_rows": 24,
-    "daily_trial_rows_merged": 222,
+    "daily_new_result_rows": 84,
+    "daily_trial_rows_merged": 0,
     "daily_work_rows_merged": 0,
     "daily_run_date": "2026-11-25",
     "daily_run_mode": "after-race",
@@ -64,13 +64,13 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3268,
-      "mtime": "2026-11-25T11:38:44.154Z"
+      "bytes": 3266,
+      "mtime": "2026-11-25T15:38:28.115Z"
     },
     {
       "name": "horse_form.json",
-      "bytes": 2816801,
-      "mtime": "2026-11-25T11:38:44.122Z"
+      "bytes": 2821160,
+      "mtime": "2026-11-25T15:38:28.107Z"
     },
     {
       "name": "trial_recent.json",
@@ -89,18 +89,18 @@
     },
     {
       "name": "combo_stats.json",
-      "bytes": 31651,
-      "mtime": "2026-11-25T11:38:44.126Z"
+      "bytes": 32333,
+      "mtime": "2026-11-25T15:38:28.111Z"
     },
     {
       "name": "jockey_stats.json",
-      "bytes": 2621,
-      "mtime": "2026-11-25T11:38:44.126Z"
+      "bytes": 2625,
+      "mtime": "2026-11-25T15:38:28.111Z"
     },
     {
       "name": "trainer_stats.json",
-      "bytes": 2716,
-      "mtime": "2026-11-25T11:38:44.126Z"
+      "bytes": 2717,
+      "mtime": "2026-11-25T15:38:28.111Z"
     },
     {
       "name": "sectional_times.json",
@@ -123,5 +123,5 @@
       "mtime": "2026-11-22T23:26:21.936Z"
     }
   ],
-  "packBytes": 10392018
+  "packBytes": 10397062
 }
