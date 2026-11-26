@@ -8,7 +8,7 @@
     "season_local_rows": 21334,
     "horses": 2100,
     "trials_horses": 3313,
-    "work_horses": 1496,
+    "work_horses": 1502,
     "season_date_range": [
       "2024-09-08",
       "2026-11-25"
@@ -26,8 +26,8 @@
       "race_comments": "race_comments.parquet→race_comments.json",
       "race_reports": "race_reports.parquet→race_reports.json"
     },
-    "sectional_races": 1725,
-    "sectional_through": "2026-11-22",
+    "sectional_races": 1734,
+    "sectional_through": "2026-11-25",
     "daily_new_result_rows": 84,
     "daily_trial_rows_merged": 0,
     "daily_work_rows_merged": 0,
@@ -37,14 +37,14 @@
     "last_after_race_venues": [
       "跑馬地"
     ],
-    "meeting_going_through": "2026-11-22",
-    "meeting_going_latest": "2026-11-25",
-    "race_comments_through": "2026-11-22",
-    "race_comments_rows": 1937,
-    "race_reports_through": "2026-11-22",
-    "race_reports_rows": 2112,
+    "meeting_going_through": "2026-11-25",
+    "meeting_going_latest": "2026-11-29",
+    "race_comments_through": "2026-11-25",
+    "race_comments_rows": 2049,
+    "race_reports_through": "2026-11-25",
+    "race_reports_rows": 2221,
     "rebuild_from": "horse-prediction-v1/data/parquet",
-    "rebuild_through": "2026-11-22"
+    "rebuild_through": "2026-11-25"
   },
   "modelLabel": "Horse Prediction V1.2 JSON（有檔）／TS 近似（無檔）",
   "files": [
@@ -64,8 +64,8 @@
   "fileStats": [
     {
       "name": "meta.json",
-      "bytes": 3266,
-      "mtime": "2026-11-25T15:38:28.115Z"
+      "bytes": 3272,
+      "mtime": "2026-11-26T02:28:25.068Z"
     },
     {
       "name": "horse_form.json",
@@ -74,13 +74,13 @@
     },
     {
       "name": "trial_recent.json",
-      "bytes": 1832838,
-      "mtime": "2026-11-25T11:38:44.142Z"
+      "bytes": 1831946,
+      "mtime": "2026-11-26T02:26:27.725Z"
     },
     {
       "name": "work_recent.json",
-      "bytes": 1138483,
-      "mtime": "2026-11-23T03:07:55.627Z"
+      "bytes": 1155747,
+      "mtime": "2026-11-26T02:26:29.569Z"
     },
     {
       "name": "barrier_bias.json",
@@ -104,24 +104,24 @@
     },
     {
       "name": "sectional_times.json",
-      "bytes": 2941001,
-      "mtime": "2026-11-22T23:25:58.056Z"
+      "bytes": 2952942,
+      "mtime": "2026-11-26T02:27:31.604Z"
     },
     {
       "name": "meeting_going.json",
-      "bytes": 750323,
-      "mtime": "2026-11-23T03:07:53.975Z"
+      "bytes": 752939,
+      "mtime": "2026-11-26T02:26:29.713Z"
     },
     {
       "name": "race_comments.json",
-      "bytes": 317006,
-      "mtime": "2026-11-22T23:26:33.432Z"
+      "bytes": 328404,
+      "mtime": "2026-11-26T02:26:29.793Z"
     },
     {
       "name": "race_reports.json",
-      "bytes": 553941,
-      "mtime": "2026-11-22T23:26:21.936Z"
+      "bytes": 585569,
+      "mtime": "2026-11-26T02:28:25.068Z"
     }
   ],
-  "packBytes": 10397062
+  "packBytes": 10471023
 }
